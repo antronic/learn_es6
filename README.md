@@ -2,3 +2,6 @@
 😎 Try to learn javascript with ES6
 
 ##Using Babel to compile ES6 to normal javascript
+~~~~
+babel ./src/ --out-file ./production/
+~~~~
