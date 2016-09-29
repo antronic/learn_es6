@@ -3,5 +3,5 @@
 
 ##Using Babel to compile ES6 to normal javascript
 ~~~~
-babel ./src/ --out-file ./production/
+$ babel ./src/ --out-file ./production/
 ~~~~
